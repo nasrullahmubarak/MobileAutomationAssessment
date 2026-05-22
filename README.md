@@ -73,7 +73,7 @@ Before running the automation test, ensure:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/nasrullahmubarak/mobile-automation-assessment.git
+git clone https://github.com/nasrullahmubarak/MobileAutomationAssessment.git
 ```
 
 ## Open Project
